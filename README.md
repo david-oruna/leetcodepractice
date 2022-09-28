@@ -1,2 +1,2 @@
 # leetcodepractice
-A repository for me to practice coding questions
+A repository for practicing coding questions
